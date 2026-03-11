@@ -1,7 +1,0 @@
-{
-  "engineered_features": [
-    "activity_total",
-    "security_total"
-  ],
-  "notes": "Engineered features are created only if required base columns exist."
-}
