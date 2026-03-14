@@ -1,7 +1,0 @@
-{
-  "threshold": 0.85,
-  "dropped_features": [
-    "activity_total",
-    "security_total"
-  ]
-}
